@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "")
 
 API_HASH = os.environ.get("API_HASH", "")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6435558826:AAHvnKWl_SD2XSMqmvNTumPimgO8G7VeO6M") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6435558826:AAE1Vw6ja7D_bMHbOoYTUqtAyo3IMk4r-FE") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "IconxBots") 
 
